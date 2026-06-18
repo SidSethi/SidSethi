@@ -4,3 +4,6 @@ __pycache__/
 
 # Local planning notes; not part of the public profile README.
 braindump.md
+docs/
+drafts/
+*.private.md
