@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local planning notes; not part of the public profile README.
+braindump.md
