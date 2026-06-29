@@ -1,18 +1,19 @@
 # Sid Sethi
 
-I build software, maintain small tools, and write notes around systems that
-make day-to-day work easier.
-
-## Current Focus
-
-- Developer tooling and AI-assisted workflows
-- Personal infrastructure and reproducible environments
-- Small utilities that remove repeated manual work
-
-## Codex Activity
-
-![Codex usage activity graph](assets/codex-usage.svg)
+Currently: Building, exploring, tokenmaxxing
+Previously:
+- cofounder & coo @earthfast
+- founding engineer @AudiusProject
+- ece/cs @carnegiemellon
 
 ## Elsewhere
+https://x.com/sidsethi
+https://www.linkedin.com/in/sidsethi1/
 
-- GitHub: [@SidSethi](https://github.com/SidSethi)
+## Recent Projects
+- https://github.com/SidSethi/repo-base
+- https://github.com/SidSethi/cursor-markdown-preview-patch
+
+## Tokenmaxxing
+
+![Codex usage activity graph](assets/codex-usage.svg)
