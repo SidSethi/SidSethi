@@ -22,4 +22,4 @@ Previously:
 
 ## Tokenmaxxing
 
-Codex usage activity graph
+![Codex usage activity graph](assets/codex-usage.svg)
