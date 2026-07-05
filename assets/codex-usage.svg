@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="450" viewBox="0 0 840 450" role="img" aria-labelledby="title desc">
   <title id="title">Codex usage activity graph</title>
-  <desc id="desc">Codex activity heatmap from May 1, 2026 to Jul 4, 2026. Calendar grid pads to Jul 9, 2026. Updated Jul 4, 2026. Private fields omitted.</desc>
+  <desc id="desc">Codex activity heatmap from May 1, 2026 to Jul 5, 2026. Calendar grid pads to Jul 9, 2026. Updated Jul 5, 2026. Private fields omitted.</desc>
   <rect width="840" height="450" rx="18" fill="#181818"/>
   <text x="28" y="36" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600">Codex Activity</text>
-  <text x="512" y="36" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13">Updated Jul 4, 2026</text>
+  <text x="512" y="36" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13">Updated Jul 5, 2026</text>
   <rect x="28" y="58" width="784" height="70" rx="12" fill="#181818" stroke="#2a2a2a"/>
   <line x1="224.00" y1="72" x2="224.00" y2="114" stroke="#2a2a2a" stroke-width="1"/><line x1="420.00" y1="72" x2="420.00" y2="114" stroke="#2a2a2a" stroke-width="1"/><line x1="616.00" y1="72" x2="616.00" y2="114" stroke="#2a2a2a" stroke-width="1"/>
 
   <g>
-    <text x="126.00" y="87" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle">2.48B</text>
+    <text x="126.00" y="87" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle">2.51B</text>
     <text x="126.00" y="110" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">Lifetime tokens</text>
   </g>
   <g>
@@ -16,11 +16,11 @@
     <text x="322.00" y="110" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">Peak tokens</text>
   </g>
   <g>
-    <text x="518.00" y="87" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle">20 days</text>
+    <text x="518.00" y="87" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle">21 days</text>
     <text x="518.00" y="110" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">Current streak</text>
   </g>
   <g>
-    <text x="714.00" y="87" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle">20 days</text>
+    <text x="714.00" y="87" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="19" text-anchor="middle">21 days</text>
     <text x="714.00" y="110" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">Longest streak</text>
   </g>
   <text x="28" y="160" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Token activity</text>
@@ -91,8 +91,8 @@
   <rect x="244" y="317" width="22" height="22" rx="4" fill="#91c2fa"><title>2026-07-01: 36.5M tokens</title></rect>
   <rect x="244" y="344" width="22" height="22" rx="4" fill="#91c2fa"><title>2026-07-02: 25.3M tokens</title></rect>
   <rect x="271" y="182" width="22" height="22" rx="4" fill="#91c2fa"><title>2026-07-03: 9.90M tokens</title></rect>
-  <rect x="271" y="209" width="22" height="22" rx="4" fill="#6b8bb2"><title>2026-07-04: 2.47M tokens</title></rect>
-  <rect x="271" y="236" width="22" height="22" rx="4" fill="#222222"><title>2026-07-05: no recorded activity</title></rect>
+  <rect x="271" y="209" width="22" height="22" rx="4" fill="#91c2fa"><title>2026-07-04: 33.1M tokens</title></rect>
+  <rect x="271" y="236" width="22" height="22" rx="4" fill="#6b8bb2"><title>2026-07-05: 1.12M tokens</title></rect>
   <rect x="271" y="263" width="22" height="22" rx="4" fill="#222222"><title>2026-07-06: no recorded activity</title></rect>
   <rect x="271" y="290" width="22" height="22" rx="4" fill="#222222"><title>2026-07-07: no recorded activity</title></rect>
   <rect x="271" y="317" width="22" height="22" rx="4" fill="#222222"><title>2026-07-08: no recorded activity</title></rect>
@@ -110,7 +110,7 @@
     <text x="463.25" y="236.0" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">Top reasoning</text>
   </g>
   <g>
-    <text x="695.75" y="213.0" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle">535</text>
+    <text x="695.75" y="213.0" fill="#f5f5f5" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle">544</text>
     <text x="695.75" y="236.0" fill="#a9a9a9" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle">Threads</text>
   </g>
   <g>
