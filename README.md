@@ -19,7 +19,3 @@ Previously:
 - [https://github.com/SidSethi/repo-base](https://github.com/SidSethi/repo-base)
 - [https://github.com/SidSethi/cursor-markdown-preview-patch](https://github.com/SidSethi/cursor-markdown-preview-patch)
 - Open sourcing a few others soon :)
-
-## Tokenmaxxing
-
-![Codex usage activity graph](assets/codex-usage.svg)
